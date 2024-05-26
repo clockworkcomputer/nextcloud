@@ -7,6 +7,9 @@ cd contenedores
 DESCARGAR REPOSITORIO
 git clone https://github.com/clockworkcomputer/nextcloud.git
 
+CAMBIAR DIRECTORIO NEXTCLOUD
+cd nextcloud
+
 COMPROMAR DOCKER-COMPOSE.yml
 nano docker-compose.yml
 
